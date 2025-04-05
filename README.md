@@ -1,4 +1,4 @@
-# ¡Montana-Rusa!
+# ¡Montaña-Rusa!
 Evaluación III - Montaña Rusa
 
 >[!note]
